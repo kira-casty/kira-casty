@@ -1,5 +1,5 @@
 ## 🎵 Now playing
-[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX1CaynJ0DnwQ)
+
 
 <h1 align="center">Hi 👋, I'm Phoebe Mongina</h1>
 <h3 align="center">Frontend Developer passionate about creating engaging and interactive user experiences</h3>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on exciting frontend projects and innovative web applications
 
-- 👨‍💻 Check out my projects at [https://phoebemongina.netlify.app/](https://phoebemongina.netlify.app/)
+
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
 
